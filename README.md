@@ -1,2 +1,2 @@
-# assignment4
-#school work
+# Plot-Time-assigment
+#Joshua D. Gonzalez
